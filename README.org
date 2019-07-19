@@ -1,0 +1,23 @@
+#+TITLE: Orgraphy
+
+Enhance any theme with variable pitch, scaled fonts for org mode.
+
+* Screenshot
+[[file:orgraphy.png]]
+
+* Org
++ Scales headings in org mode, unless marked with a TODO-related keyword
++ Hides bullets
++ Prettifies some symbols
+
+* Markdown
++ Enables headline scaling in markdown
+
+* Other
++ Configures variable pitch, scaled headings in various UI components, such as helm and magit
+
+* Installation
+#+begin_src emacs-lisp
+  (package-install 'orgraphy)
+  (orgraphy-mode)
+#+end_src
