@@ -113,6 +113,7 @@
   (orgraphy--set-face-attribute 'org-meta-line nil :height 0.7)
   (orgraphy--set-face-attribute 'org-property-value nil :height 0.65)
   (orgraphy--set-face-attribute 'org-special-keyword nil :height 0.65)
+  (orgraphy--set-face-attribute 'markdown-header-face nil :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'outline-1 nil :height 2.2 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'outline-2 nil :height 1.75 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'outline-3 nil :height 1.4 :inherit 'variable-pitch :weight 'normal)
