@@ -121,7 +121,8 @@
   (orgraphy--set-face-attribute 'outline-5 nil :height 1.2 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'outline-6 nil :height 1.1 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'outline-7 nil :height 1.0 :inherit 'variable-pitch :weight 'normal)
-  (orgraphy--set-face-attribute 'outline-8 nil :height 1.0 :inherit 'variable-pitch :weight 'normal))
+  (orgraphy--set-face-attribute 'outline-8 nil :height 1.0 :inherit 'variable-pitch :weight 'normal)
+  (orgraphy--set-face-attribute 'markup-gen-face nil :inherit 'variable-pitch :weight 'normal) )
 
 (defun orgraphy--set-face-attribute (face frame &rest args)
   "Set attributes of FACE on FRAME from ARGS."
