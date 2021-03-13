@@ -118,7 +118,7 @@
   (orgraphy--set-face-attribute 'outline-2 nil :height 2.4 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'outline-3 nil :height 1.8 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'outline-4 nil :height 1.4 :inherit 'variable-pitch :weight 'bold)
-  (orgraphy--set-face-attribute 'outline-5 nil :height 1.2 :inherit 'variable-pitch :weight 'italic)
+  (orgraphy--set-face-attribute 'outline-5 nil :height 1.2 :inherit 'variable-pitch :slant 'italic)
   (orgraphy--set-face-attribute 'outline-6 nil :height 1.1 :inherit 'variable-pitch :weight 'bold)
   (orgraphy--set-face-attribute 'outline-7 nil :height 1.0 :inherit 'variable-pitch :weight 'bold)
   (orgraphy--set-face-attribute 'outline-8 nil :height 1.0 :inherit 'variable-pitch :weight 'bold)
