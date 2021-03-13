@@ -109,7 +109,7 @@
   (orgraphy--set-face-attribute 'magit-section-heading nil :height 1.5 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'magit-section-heading-selection nil :inherit 'variable-pitch)
   (orgraphy--set-face-attribute 'org-document-info-keyword nil :height 0.7)
-  (orgraphy--set-face-attribute 'org-document-title nil :height 1.0 :inherit 'variable-pitch :weight 'normal)
+  (orgraphy--set-face-attribute 'org-document-title nil :height 2.6 :inherit 'variable-pitch :weight 'normal)
   (orgraphy--set-face-attribute 'org-meta-line nil :height 0.7)
   (orgraphy--set-face-attribute 'org-property-value nil :height 0.65)
   (orgraphy--set-face-attribute 'org-special-keyword nil :height 0.65)
